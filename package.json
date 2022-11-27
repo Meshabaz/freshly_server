@@ -1,0 +1,22 @@
+{
+  "name": "freshly_server",
+  "version": "1.0.0",
+  "description": "MOCK-SERVER Unit5 Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meshabaz/freshly_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meshabaz/freshly_server/issues"
+  },
+  "homepage": "https://github.com/Meshabaz/freshly_server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
