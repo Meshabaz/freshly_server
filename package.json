@@ -4,7 +4,9 @@
   "description": "MOCK-SERVER Unit5 Project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "json-server --watch dummy.json --port 3200 "
   },
   "repository": {
     "type": "git",
