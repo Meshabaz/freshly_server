@@ -3,6 +3,16 @@
     {
       "id": 1,
       "brand": "Steak Peppercorn",
+
+      "with": "Sautéed Carrots & French Green Beans",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012873/production-meal-image-2fd3df62-8abf-413e-8650-afca039518ec.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012874/production-meal-image-6b3a83c1-9167-4a16-897e-d12f9460236a.jpg"
@@ -35,6 +45,16 @@
     {
       "id": 2,
       "brand": "Homestyle Chicken",
+
+      "with": "Masterful Mac & Cheese",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012265/production-meal-image-e4122aa8-0fe7-4854-b6f5-e27e0c5be918.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012266/production-meal-image-03fedc66-e34e-451c-a935-514e3602cbb2.jpg"
@@ -67,6 +87,16 @@
     {
       "id": 3,
       "brand": "Cauliflower Shell Beef Bolognese",
+
+      "with": "Nonna’s Soffritto & Italian Cheeses",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012554/production-meal-image-c9eef45a-97a9-487c-9550-71488e5f639a.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012555/production-meal-image-325b3588-a742-402b-87a9-a81caca4095f.jpg"
@@ -99,6 +129,16 @@
     {
       "id": 4,
       "brand": "Sausage Baked Penne",
+
+      "with": "Sautéed Zucchini & Spinach",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012391/production-meal-image-f0de55be-d691-4ade-bc26-b4a8aedaa1fe.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012392/production-meal-image-0963d196-5110-4dc7-888a-8121e5b91142.jpg"
@@ -131,6 +171,16 @@
     {
       "id": 5,
       "brand": "Savory-Sweet Chicken Teriyaki Bowl",
+
+      "with": "Basmati Rice & Veggies",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012614/production-meal-image-92ec0fc1-d352-4720-9b83-96798ab8d2de.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012615/production-meal-image-9ad161f0-f33f-4551-b099-38188c9d783e.jpg"
@@ -163,6 +213,16 @@
     {
       "id": 6,
       "brand": "Protein-Packed Chicken Parm",
+
+      "with": "Mozzarella & Garlicky Broccoli",
+      "price": null,
+      "categories": "FreshlyFit",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1607770959/production-meal-image-7a62bb89-9bcb-4f1f-9f0f-d8372698d48e.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1607982766/production-meal-image-5c0776ef-ec85-447d-80a5-abd2e8d0b766.jpg"
@@ -196,6 +256,16 @@
     {
       "id": 7,
       "brand": "Golden Oven-Fried Chicken & Mash",
+
+      "with": "Roasted Sweet Corn",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012331/production-meal-image-bc1b24c8-f62a-4756-a40e-173a8b67a590.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012332/production-meal-image-0d752eeb-2e73-4dae-8a86-b86047e00008.jpg"
@@ -227,7 +297,17 @@
     },
     {
       "id": 8,
-      "brand": "PZingy Buffalo Chicken",
+      "brand": "Zingy Buffalo Chicken",
+
+      "with": "Loaded Cauliflower",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012184/production-meal-image-ef64cbd3-cc91-4c5f-9865-b9ff0442572e.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012185/production-meal-image-4692b403-09e7-4fae-9569-0584d7452792.jpg"
@@ -260,6 +340,16 @@
     {
       "id": 9,
       "brand": "White Bean Turkey Chili Bowl",
+
+      "with": "Basmati Rice & Cheddar Cheese",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1609775112/production-meal-image-17ade4a4-7351-4ff8-95c6-765d70e5ea5d.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1609775112/production-meal-image-174ca15c-2d12-47ce-ba29-7cf03256c06c.jpg"
@@ -292,6 +382,16 @@
     {
       "id": 10,
       "brand": "Sesame-Ginger Chicken & Noodles",
+
+      "with": "Bright Stir-Fried Veggies",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": null,
+        "carb": null,
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1638803638/production-meal-image-a4feff11-ec91-43e8-bab5-e6daf8b55eea.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1638803638/production-meal-image-e394488f-2367-4cb7-a03c-eecea42bf470.jpg"
@@ -324,6 +424,16 @@
     {
       "id": 11,
       "brand": "Chicken Tikka Masala",
+
+      "with": "Seven-Spice Vegetable Biryani",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012800/production-meal-image-fa07e0dc-cb7f-43d7-a669-d35dc3fbcf93.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1637012801/production-meal-image-cc993f69-51fe-470b-83bf-bb8e8baa4b61.jpg"
@@ -356,6 +466,16 @@
     {
       "id": 12,
       "brand": "3 Grilled Chicken Breasts (9.75 Oz)",
+
+      "with": null,
+      "price": 0.99,
+      "categories": "Proteins & Sides",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1626457027/production-meal-image-536ab066-5461-4cc0-bbad-f3246a0bb7df.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1626457026/production-meal-image-3da6c881-3d4c-4ee4-9deb-4fe698cdd5a2.jpg"
@@ -378,6 +498,16 @@
     {
       "id": 13,
       "brand": "8 Baked Turkey Meatballs (9.98 Oz)",
+
+      "with": null,
+      "price": 0.99,
+      "categories": "Proteins & Sides",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1626451152/production-meal-image-578506ac-e956-4c6f-bcbc-4e709ab34f98.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1626451151/production-meal-image-c79a5038-349e-4919-92fb-8d704982ad41.jpg"
@@ -410,6 +540,16 @@
     {
       "id": 14,
       "brand": "Asian-Style Chicken & Noodles",
+
+      "with": "Almond-Tahini Sauce & Veggies",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": null,
+        "carb": null,
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1638803151/production-meal-image-63479068-f450-4424-a206-229bd42ab321.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1638803152/production-meal-image-67840c3a-4462-4e1a-8746-cc49a14ca086.jpg"
@@ -442,6 +582,15 @@
     {
       "id": 15,
       "brand": "Tricolor Beef Lasagna",
+      "with": "Brown-Rice & Spinach Pasta Sheets",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1658926478/production-meal-image-29e2b6e1-12af-405d-8b33-91e19b2a0fef.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1658926479/production-meal-image-caa29240-c960-47ad-b9ba-a095b48c0e45.jpg"
@@ -474,6 +623,15 @@
     {
       "id": 16,
       "brand": "Roasted Tomato & Parmesan Risotto",
+      "with": "Pesto Squash & Mozzarella Cheese",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1656612702/production-meal-image-d30dad76-4b61-40ab-bdfc-0d7a907829a6.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1656612703/production-meal-image-786cd0f3-2184-4830-ab6e-144d0560f17f.jpg"
@@ -504,6 +662,16 @@
     {
       "id": 17,
       "brand": "Swede-Ish Meatballs",
+
+      "with": "Cream Sauce & Masterful Mash",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1612385113/production-meal-image-4663a574-d74a-4854-a881-ef4da5b24cee.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1651068351/production-meal-image-742b06ca-a970-42f0-8bc0-9d3d76a79509.png"
@@ -536,6 +704,16 @@
     {
       "id": 18,
       "brand": "Heartland Turkey Meatloaf",
+
+      "with": "Cheesy Broccoli & Chive-Cauli Mash",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1660843415/production-meal-image-5bd23e4d-884e-4c36-b685-bfff1db5834f.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1660843417/production-meal-image-a5981673-5ab4-4b3d-9f73-8f56ce5453d6.jpg"
@@ -566,6 +744,16 @@
     {
       "id": 19,
       "brand": "Philly-Ish Cheesesteak",
+
+      "with": "Seasoned Beef & Masterful Mash",
+      "price": 1.99,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1661260504/production-meal-image-d5ef4016-ed9b-4aac-93e1-109ae9b9b6ba.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1661260505/production-meal-image-ff77a3f3-9703-4d02-af55-0dfc620cead9.jpg"
@@ -596,6 +784,16 @@
     {
       "id": 20,
       "brand": "Flame-Seared Top Blade Steak",
+
+      "with": "Green Pea Risotto & Parmesan Crumble",
+      "price": 2.49,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1645195663/production-meal-image-25f9ce2d-ca21-499e-a140-8d59b4733ec2.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1645195694/production-meal-image-0aa4e301-5381-4a1a-9e90-342142786ef4.jpg"
@@ -628,6 +826,16 @@
     {
       "id": 21,
       "brand": "Grilled Lemon-Tahini Chicken",
+
+      "with": "Riced Broccoli & Cauliflower Pilaf",
+      "price": null,
+      "categories": "FreshlyFit",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1653506222/production-meal-image-8c822399-bb64-4643-9c22-9beba7f589dd.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1653506223/production-meal-image-0468ec9b-d136-44e7-adc2-30552110f0af.jpg"
@@ -660,6 +868,16 @@
     {
       "id": 22,
       "brand": "Oven-Baked Chicken Florentine",
+
+      "with": "Creamed Spinach & Riced Broccoli Pilaf",
+      "price": null,
+      "categories": "FreshlyFit",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1658322370/production-meal-image-5eb84c62-bb11-48e3-bb03-e19cd31b82d3.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1658322391/production-meal-image-466dc74e-e72e-4045-b94f-240c4c2824cd.jpg"
@@ -692,6 +910,16 @@
     {
       "id": 23,
       "brand": "BBQ Bison Burger*",
+
+      "with": "Masterful Mac & Cheese",
+      "price": 1.99,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1639417068/production-meal-image-9e969581-d09c-4617-9b17-d455d23c8952.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1639417067/production-meal-image-9eddc975-4cfc-40a0-a0ad-588d1e603506.jpg"
@@ -722,6 +950,16 @@
     {
       "id": 24,
       "brand": "Creamy Chicken Fettuccine Alfredo",
+
+      "with": "Broccoli & Parmesan Cheese",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": null,
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1652892314/production-meal-image-4e60254a-6b6e-461b-9ec7-a25a2035949f.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1652892315/production-meal-image-cdd76dba-b0f9-495b-a58e-84a8cd04de42.jpg"
@@ -752,6 +990,16 @@
     {
       "id": 25,
       "brand": "Linguine Marinara & Beef Meatballs",
+
+      "with": "Five Italian-Style Cheese",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": null,
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1652893119/production-meal-image-6c9081ec-aecf-4eb0-980c-4843c3883727.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1652893120/production-meal-image-fde3f361-5019-4f1f-8bed-3afc8ab74122.jpg"
@@ -784,6 +1032,16 @@
     {
       "id": 26,
       "brand": "Wild-Caught Fish Cake",
+
+      "with": "Southern Succotash & Lime-Cilantro Sauce",
+      "price": 1.49,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1656618770/production-meal-image-2076958f-3cde-4481-9644-0573e8ede33e.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1656618771/production-meal-image-76992a57-d36c-42fd-a2b6-29cd22cdf664.jpg"
@@ -814,6 +1072,16 @@
     {
       "id": 27,
       "brand": "Chimichurri Rojo Seared Steak",
+
+      "with": "Herbed Mushrooms, Asparagus & Cauli Rice",
+      "price": 1.99,
+      "categories": "FreshlyFit",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1656618906/production-meal-image-064ddd32-490c-4956-b5db-ded0b1e365d0.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1656618907/production-meal-image-d0dd076d-88a9-42f1-ba85-a87cd5425ebb.jpg"
@@ -842,6 +1110,16 @@
     {
       "id": 28,
       "brand": "Veggie-Loaded Burrito Bake",
+
+      "with": "Plant-Based Chorizo & Refried Beans",
+      "price": null,
+      "categories": "Plant-Based",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": "Plant-Based",
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1655959643/production-meal-image-857e178e-6526-43e2-a8f3-7b8eb178c3c1.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1655959644/production-meal-image-a5e8c5c2-bc26-4749-a493-3b1aaa59eb69.jpg"
@@ -872,6 +1150,16 @@
     {
       "id": 29,
       "brand": "Italian Sausage, Peppers & Onions",
+
+      "with": "Marinara Sauce & Zesty Verde Rice",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1662645974/production-meal-image-cc0f939b-6814-4d3e-ae51-47ad08339bf3.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1662645975/production-meal-image-30176ebd-5942-46c8-a456-cd4292ba2bca.jpg"
@@ -902,6 +1190,16 @@
     {
       "id": 30,
       "brand": "Coq Au Vin",
+
+      "with": "Red Wine Sauce, Canadian Bacon & Mash",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1663698809/production-meal-image-26eb81cd-a53a-47ed-a7da-56cc1b7272ef.jpgg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1663698813/production-meal-image-037a9237-6478-48c9-bb73-ee25ba2c6c3f.jpg"
@@ -932,6 +1230,15 @@
     {
       "id": 31,
       "brand": "Carved Turkey & Creamy Mash",
+      "with": "Green Bean Sauté & Toasted Pecans",
+      "price": 1.49,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1665166357/production-meal-image-c735f24b-3626-45ec-97be-b64910120b11.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1665166358/production-meal-image-114479ce-689a-440d-b46a-c4748f0b9a8c.jpg"
@@ -964,6 +1271,16 @@
     {
       "id": 32,
       "brand": "Shrimp & Andouille Paella",
+
+      "with": "Roasted Red Peppers",
+      "price": 1.49,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1665166451/production-meal-image-e5f3f794-0103-40b2-b243-0cb311a8638a.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1665166453/production-meal-image-5031dbfe-b95b-4be7-9275-a20a0175cb15.jpg"
@@ -996,6 +1313,16 @@
     {
       "id": 33,
       "brand": "Seared Beef Brisket & BBQ Sauce",
+
+      "with": "Collards & Cauli-Shell Mac ‘n’ Cheese",
+      "price": 2.49,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1664820498/production-meal-image-9d663db0-fc03-445d-9626-e4347e65f217.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1664820499/production-meal-image-71c98179-112b-42b7-8135-fcbd3f620695.jpg"
@@ -1024,6 +1351,16 @@
     {
       "id": 34,
       "brand": "Creamy Parmesan Chicken Pasta",
+
+      "with": "Brown-Rice Fusilli & Green Peas",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1664984791/production-meal-image-a2f43c1e-add0-46d4-9017-b03b30b16d48.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1664984793/production-meal-image-aff1f7aa-5d96-4cf4-8883-233e1222d1ae.jpg"
@@ -1054,6 +1391,16 @@
     {
       "id": 35,
       "brand": "Four-Cheese Ravioli",
+
+      "with": "Butternut Squash, Kale & Shaved Parmesan",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": null,
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1664981917/production-meal-image-4d655494-11e6-4ea7-9576-1eab8fb7783f.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1664981918/production-meal-image-7773e80a-0e90-4a82-b83a-89c80900ebf2.jpg"
@@ -1084,6 +1431,16 @@
     {
       "id": 36,
       "brand": "Traditional Beef Stew",
+
+      "with": "Carrots & Pearl Onions",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1634917490/production-meal-image-353ecb3a-15e4-465e-bb69-4b91e4c6b004.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1635184517/production-meal-image-0a880419-cf24-4e42-b61c-178108047b54.jpg"
@@ -1116,6 +1473,16 @@
     {
       "id": 37,
       "brand": "Indian-Style Palak Chicken",
+
+      "with": "Spinach Sauce & Tandoori Cauliflower",
+      "price": null,
+      "categories": "FreshlyFit",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1660313853/production-meal-image-cad55a0d-ac7c-4907-aa5e-6f29775c6b87.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1659556751/production-meal-image-a7216ab1-ac0b-4f09-8277-e35ca9c49d5a.png"
@@ -1146,6 +1513,16 @@
     {
       "id": 38,
       "brand": "Pork Carnitas",
+
+      "with": "Basmati Rice, Black Beans & Corn",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1666279887/production-meal-image-814dbf41-a18b-4620-87f2-8e465c2dcd37.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1666279888/production-meal-image-ae0ac4c6-3734-4559-8dd7-4c1deb1e2d42.jpg"
@@ -1178,6 +1555,16 @@
     {
       "id": 39,
       "brand": "Indian-Style Chickpea Curry Bowl",
+
+      "with": "Basmati Rice, Lentils & Veggies",
+      "price": null,
+      "categories": "Plant-Based",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": "Plant-Based",
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1666280665/production-meal-image-3cbeb15b-7139-4f03-8db6-b7d4a8881c67.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1666280666/production-meal-image-15ff9422-6c38-4e0c-8ef6-e9cc193f9c23.jpg"
@@ -1210,6 +1597,16 @@
     {
       "id": 40,
       "brand": "Miso-Glazed Beef Bowl",
+
+      "with": "Cauliflower Rice",
+      "price": null,
+      "categories": "FreshlyFit",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1611268764/production-meal-image-c92760b3-d1c8-463a-9721-8effc5cbc614.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1638572563/production-meal-image-82ec7ed4-920a-42bd-b5c6-a4c26e012525.jpg"
@@ -1242,6 +1639,16 @@
     {
       "id": 1,
       "brand": "Spiced Apple Pork Chop",
+
+      "with": "Braised Brussels & Wild Rice Pilaf",
+      "price": 1.49,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1666112376/production-meal-image-e287f806-675e-46a9-8af4-3e769a03291d.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1666112377/production-meal-image-14854817-c03e-45ab-bafe-4c679c0cf554.jpg"
@@ -1264,6 +1671,16 @@
     {
       "id": 42,
       "brand": "Tex-Mex Grilled Chicken",
+
+      "with": "Creamy Queso Sauce, Sausage & Peppers",
+      "price": null,
+      "categories": "Signature Collection",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": null,
+        "plant": null,
+        "dairy": null
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1651068673/production-meal-image-74a2ccd1-00a7-40df-b3cf-df2e105b657d.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1651068708/production-meal-image-ae20012d-c9a2-41ce-bd22-9d4755f4497d.jpg"
@@ -1294,6 +1711,15 @@
     {
       "id": 43,
       "brand": "Thai Green Curry Bowl",
+      "with": "Sweet Potato, Mushrooms & Basmati Rice",
+      "price": null,
+      "categories": "Plant-Based",
+      "diet": {
+        "gluten": "Gluten Free",
+        "carb": "<35g Carbs",
+        "plant": "Plant-Based",
+        "dairy": "Dairy Free"
+      },
       "pic": {
         "url1": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1654626485/production-meal-image-eea55b43-0737-4923-912f-d2aa340a7bc0.jpg",
         "url2": "https://res.cloudinary.com/freshly/image/upload/c_fill,dpr_2,f_auto,h_383,w_580/v1654626487/production-meal-image-7d547a7c-f63d-4eb7-9d61-55c7d69e9011.jpg"
