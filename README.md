@@ -1,5 +1,9 @@
 # freshly_server
 
+# RENDER DEPLOYED LINK
+https://freshly-server.onrender.com/all
+
+
 MOCK-SERVER Unit5 Project
 ,
 
