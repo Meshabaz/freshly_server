@@ -2,7 +2,8 @@
 
 # RENDER DEPLOYED LINK
 https://freshly-server.onrender.com/all
-
+#RAILWAY.APP DEPLOYED LINK
+https://web-production-0322.up.railway.app/all
 
 MOCK-SERVER Unit5 Project
 ,
